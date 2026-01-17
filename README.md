@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey?style=flat-square&logo=creative-commons" alt="Creative Commons">
   <img src="https://img.shields.io/badge/Architecture-8051 Instruction Set-blue?style=flat-square" alt="8051">
   <img src="https://img.shields.io/badge/IDE-Keil_uVision_5-red?style=flat-square" alt="Keil">
-  <img src="https://img.shields.io/badge/Language-Assembly-brightgreen?style=flat-square" alt="Assembly">
+  <img src="https://img.shields.io/badge/Language-Assembly-yellogreen?style=flat-square" alt="Assembly">
   <img src="https://img.shields.io/github/last-commit/aliozkanme/Embedded-System-Assembly-8051-Projects" alt="last commit">
 </p>
 
