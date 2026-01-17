@@ -1,5 +1,13 @@
 # Project 1: Automated Ball Filling System with ADuC841
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Architecture-8051 Instruction Set-blue?style=flat-square" alt="8051">
+  <img src="https://img.shields.io/badge/IDE-Keil_uVision_5-red?style=flat-square" alt="Keil">
+  <img src="https://img.shields.io/badge/Language-Assembly-yellowgreen?style=flat-square" alt="Assembly">
+</p>
+
+---
+
 ## 📝 Overview
 This project implements an automated industrial conveyor belt system designed to fill boxes with a specific number of steel balls (Bilye). The system utilizes the **ADuC841** microcontroller to count incoming balls via a sensor, compare the count against a user-defined reference value, and manage the process flow using precise timer interrupts. The entire firmware is developed in **8051 Assembly** to ensure low-level hardware control and timing accuracy.
 
