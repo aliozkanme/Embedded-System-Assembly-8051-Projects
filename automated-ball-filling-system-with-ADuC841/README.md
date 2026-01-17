@@ -1,4 +1,4 @@
-# Project 1: Automated Ball Filling System with ADuC841
+# Automated Ball Filling System with ADuC841
 
 <p align="left">
   <img src="https://img.shields.io/badge/Architecture-8051 Instruction Set-blue?style=flat-square" alt="8051">
