@@ -1,9 +1,9 @@
 ; =============================================================================
-; Project Name: Automated Ball Filling System
-; Author: Ali Ozkan
-; Hardware: ADuC841 (8051 Architecture)
-; Description: Counts balls using Timer 0, compares with external reference,
-;              and triggers a 0.5s LED alert using Timer 2 for 10 cycles.
+; Project Name	: Automated Ball Filling System
+; Author		: Ali Ozkan
+; Hardware		: ADuC841 (8051 Architecture)
+; Description	: Counts balls using Timer 0, compares with external reference,
+;             	  and triggers a 0.5s LED alert using Timer 2 for 10 cycles.
 ; =============================================================================
 
 #include <ADUC841.H>
