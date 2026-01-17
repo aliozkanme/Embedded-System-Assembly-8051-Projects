@@ -1,0 +1,24 @@
+# Keil uVision geçici ve çıktı dosyaları
+*.obj
+*.lst
+*.m51
+*.hex
+*.bin
+*.dep
+*.lnp
+*.uvgui.*
+*.uvopt
+*.uvproj.bak
+*.bak
+*.__i
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.sct
+*.map
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
