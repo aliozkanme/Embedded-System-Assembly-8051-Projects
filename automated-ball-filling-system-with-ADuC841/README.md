@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project implements an automated industrial conveyor belt system designed to fill boxes with a specific number of steel balls (Bilye). The system utilizes the **ADuC841** microcontroller to count incoming balls via a sensor, compare the count against a user-defined reference value, and manage the process flow using precise timer interrupts. The entire firmware is developed in **8051 Assembly** to ensure low-level hardware control and timing accuracy.
 

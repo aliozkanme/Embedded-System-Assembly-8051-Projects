@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project demonstrates sequential data writing and arithmetic processing within the **ADuC841** internal memory. The system first populates a RAM block (10h-19h) with decimal values using a loop. Subsequently, it retrieves these values to calculate their total sum using the `CJNE` instruction for iteration control, finally displaying the result on **Port 2**.
 

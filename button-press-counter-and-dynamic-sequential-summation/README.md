@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project implements a manual pulse counter and a recursive summation algorithm using the **ADuC841**. The system counts negative pulses from a tactile button (BT3), stores the count in internal RAM, and upon a "Sum" command (P2.3), calculates the total sum of all integers from the current count down to zero (e.g., if count=5, sum = 5+4+3+2+1).
 

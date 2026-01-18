@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project demonstrates the **bit-level addressing** capabilities of the ADuC841 microcontroller. It focuses on manipulating specific bits within the internal RAM to drive hardware outputs and mapping external switch states from Port 2 into designated bit locations within a memory byte (08h).
 

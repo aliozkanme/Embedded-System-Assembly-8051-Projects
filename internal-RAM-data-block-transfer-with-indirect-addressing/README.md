@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project implements an automated data migration within the ADuC841 internal RAM. The system transfers a sequence of pre-stored values from a source memory block (**10h–19h**) to a target destination block (**30h–39h**) using a loop-based iterative process.
 

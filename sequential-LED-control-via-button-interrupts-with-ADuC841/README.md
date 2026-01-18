@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project focuses on interfacing digital input and output peripherals using the ADuC841 microcontroller. The system is designed to control an 8-LED array sequentially using a single push-button (BT1). 
 Initially, all LEDs are off. Upon each button press, the system shifts the active light to the next LED in the sequence (from LED1 to LED8). The implementation emphasizes efficient input polling and output port management, utilizing a modular subroutine structure to minimize the code footprint.

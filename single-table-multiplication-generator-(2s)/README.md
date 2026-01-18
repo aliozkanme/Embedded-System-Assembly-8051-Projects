@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project focuses on basic arithmetic automation and linear memory storage using the **ADuC841**. The system calculates the multiplication table of 2 (from 2x1 to 2x9) and saves the results in consecutive internal RAM addresses from **00h to 08h** using a `DJNZ`-based loop structure.
 

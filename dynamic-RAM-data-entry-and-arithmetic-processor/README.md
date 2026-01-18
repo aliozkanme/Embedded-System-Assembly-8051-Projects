@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project focuses on automated RAM population and complex arithmetic operations using the **ADuC841**. The system writes a specific dataset to RAM addresses **11h through 1Ah** and performs a differential calculation based on even and odd address parity.
 

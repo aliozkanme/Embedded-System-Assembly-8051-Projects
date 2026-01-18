@@ -8,6 +8,15 @@
 
 ---
 
+## 🎓 Project Information
+
+| Field | Details |
+| :--- | :--- |
+| Course | EEM304 Microprocessors |
+| Institution | Sakarya University |
+| Term | Spring 2016 |
+| Instructor | Asst. Prof. Zekiye Erdem |
+
 ## 📝 Overview
 This project focuses on internal data manipulation and memory management using the **ADuC841** microcontroller. 
 The objective is to automate the generation of multiplication tables for the numbers 2, 3, and 4 using nested loops. Instead of driving external hardware, the results are calculated algorithmically and mapped to specific internal RAM addresses (09h to 23h). 
